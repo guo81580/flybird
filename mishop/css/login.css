@@ -1,0 +1,155 @@
+
+.main {
+    width: 100%;
+    height: auto;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+
+.main .top {
+    width: 100%;
+    height: 517px;
+    margin-bottom: 90px;
+}
+.main .top .content {
+    width: 100%;
+    height: 517px;
+    padding: 0 20px;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
+.main .top .content .title {
+    padding: 30px 0 10px;
+}
+.main .top .content .title div {
+    width: 48px;
+    height: 48px;
+    border-radius: 3px;
+    background-color: #ff6700;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 21px;
+}
+.main .top .content .title div .icon-mi {
+    font-size: 30px;
+}
+.main .top .content .title  h4 {
+    text-align: center;
+    font-size: 18px;
+}
+
+.main .top .content .input {
+    width: 100%;
+    height: 109px;
+    display: inline-block;
+    color: #9b9b9b;
+    font-size: 18px;
+}
+.main .top .content .input .row {
+    height: 54px;
+    line-height: 54px;
+    border-bottom: 1px solid #d3d3d3;
+    margin-bottom: 1px;
+    display: flex;
+
+
+}
+.main .top .content .input .row .text {
+    width: 264px;
+}
+.main .top .content .input .row .item {
+    font-size: 18px;
+
+}
+.main .top .content .input .row .icon-dy {
+    font-size: 12px;
+    margin: 21px 16px 0 8px;
+
+}
+.main .top .content .input .row .link {
+    font-size: 14px;
+    color: #2ea5e5;
+    padding-left: 20px;
+    box-sizing: border-box;
+
+}
+.main .top .content .login {
+    height: 68px;
+    padding-top: 24px;
+    box-sizing: border-box;
+}
+.main .top .content .login .text {
+    background-color: #ff6700;
+    border-radius: 6px;
+    height: 44px;
+    line-height: 44px;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 14px;
+}
+.main .top .content .bottom {
+    margin-top: 24px;
+}
+.main .top .content .bottom .username {
+    height: 68px;
+    margin-top: 14px;
+
+}
+.main .top .content .bottom .username .text {
+    background-color: #ffffff;
+    border-radius: 6px;
+    height: 44px;
+    line-height: 44px;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-bottom: 14px;
+    margin-top: 10px;
+    border: 1px solid #d3d3d3;
+}
+.main .top .content .bottom .else {
+    padding-top: 40px;
+    height: 109px;
+}
+.main .top .content .bottom .else .text {
+    font-size: 12px;
+    color: #b0b0b0;
+    text-align: center;
+    padding-top: 4px;
+}
+.main .top .content .bottom .else .border {
+
+    border-top: 1px solid #e3e3e3;
+    padding-top: 10px;
+    text-align: center;
+
+}
+.main .top .content .bottom .else .iconwrap {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+.main .top .content .bottom .else .iconwrap .icon {
+    margin: 10px 10px 0;
+
+}
+.main .foot {
+
+    padding-top: 37px;
+    box-sizing: border-box;
+}
+.main .foot ul {
+  display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    color: #9b9b9b;
+
+
+}
+.main .foot ul li {
+    margin: 0 4px;
+}
